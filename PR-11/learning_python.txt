@@ -1,0 +1,3 @@
+In Python you can create web-app
+In Python you can process data
+In Python you can develop game
