@@ -1,5 +1,7 @@
 # Практические Работы по Основам Программирования
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzvshkin%2Fhomework&count_bg=%236FBDE5&title_bg=%23907D7D&icon=python.svg&icon_color=%236FBDE5&title=%D0%9F%D0%BE%D1%81%D0%B5%D1%82%D0%B8%D0%BB%D0%BE&edge_flat=true)](https://hits.seeyoufarm.com)
+
 ## [PR-03. Составление программ линейной структуры](./PR-03)
 <details>
   <summary> Программы </summary>
@@ -84,5 +86,17 @@
 
   - **[ZV-01](./PR-10/ZV-01.py)**. Чтение данных из файла и запись результата в файл.
   - **[ZV-02](./PR-10/ZV-02.py)**. Проверка условия и запись результата в текстовый файл.
+
+</details>
+
+## [PR-11. Работа с двоичными файлами](./PR-11)
+<details>
+  <summary> Программы </summary>
+
+  - **[ZV-01](./PR-11/ZV-01.py)**. Чтение файла, вывод текста и его обработка.
+  - **[ZV-02](./PR-11/ZV-02.py)**. Замена слова в строках файла.
+  - **[ZV-03](./PR-11/ZV-03.py)**. Запись имени пользователя в файл.
+  - **[ZV-04](./PR-11/ZV-04.py)**. Цикл для записи имен в файл.
+  - **[ZV-05](./PR-11/ZV-05.py)**. Сохранение ответов в файл.
 
 </details>
